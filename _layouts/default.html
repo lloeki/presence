@@ -2,9 +2,20 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"/>
+    <title>lna7n - {{ page.title }}</title>
+    <link rel="stylesheet" href="/style.css" />
   </head>
-  <body>
-    {{ content }}
+  <body lang='en-US'>
+    <main>
+        <h1 class='title'>{{ page.title }}</h1>
+
+        <section class='content'>
+            {{ content }}
+        </section>
+    </main>
+    <footer>
+        <a href="https://lna7n.org">lna7n.org</a> - hack. build. create.
+    </footer>
   </body>
 </html>

@@ -2,5 +2,10 @@
 layout: default
 title: lna7n
 ---
-<h1>LNA7N</h1>
-<h2>Hack. Build. Create.</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
