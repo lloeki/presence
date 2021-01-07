@@ -20,6 +20,14 @@ img, iframe { border: 0 }
 
 html, body {
   background-color: #FCFCFC;
+  color: #030303;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #101010;
+    color: #D0D0D0;
+  }
 }
 
 body {
@@ -133,7 +141,7 @@ footer {
 }
 
 a, a:visited {
-  color: gray;
+  color: #7F7F7F;
   text-decoration: none;
 }
 
