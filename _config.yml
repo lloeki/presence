@@ -2,3 +2,5 @@ exclude:
   - vendor
   - Gemfile*
   - .gitignore
+include:
+  - .well-known

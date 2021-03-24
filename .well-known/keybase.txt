@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lloeki
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lna7n.org
+  * I am lloeki (https://keybase.io/lloeki) on keybase.
+  * I have a public key ASCgVqiFme1rowkD91yopLaJm9wCx6Pr21kt-q8dWhzrTQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010115b7c451688b9ca78228968be6fce5bcf400adfb8d63fa42b7749dac8373b3dc0a",
+      "host": "keybase.io",
+      "kid": "0120a056a88599ed6ba30903f75ca8a4b6899bdc02c7a3ebdb592dfaaf1d5a1ceb4d0a",
+      "uid": "8f6b195c5bf8092d1e53834ed001af00",
+      "username": "lloeki"
+    },
+    "merkle_root": {
+      "ctime": 1616604421,
+      "hash": "cb467a0a7e653f054e5876dce7c548e5a5e76faae6f4d2ca34c4386c20108fb056b8a5b6e8cf469a796aad7f8727cb6599740cda2fc61e1168dc65a3936536b4",
+      "hash_meta": "761be712e07bf4cf32503f001c2ab789614f792e1f28c27c046eea4cdad9d8be",
+      "seqno": 19458744
+    },
+    "service": {
+      "entropy": "AK9hP3qEU5CrxziRwTmAuEuF",
+      "hostname": "lna7n.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1616604431,
+  "expire_in": 504576000,
+  "prev": "9b2ca2b29b00b05d11d83b817f4b3eade949d71b50a64139411c0f95db94b781",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoFaohZnta6MJA/dcqKS2iZvcAsej69tZLfqvHVoc600Kp3BheWxvYWTESpcCMsQgmyyispsAsF0R2DuBf0s+relJ1xtQpkE5QRwPlduUt4HEINrPFPItDgY+t1uOIN8GxyzBghhsOG8us/VW41YEvj4iAgHCo3NpZ8RADNNW0co6+WVoRxCky7ZxfACViBAyv1js26xSmOtsDBGE6FA48MOKi0r2qXQrCEQS+B6Se2IL5FKzmKZdHlYLDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFkdKZKgqCP+YGseO1mldFAEahMakoCBfZydxbzyu9l4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lloeki
+
+==================================================================
